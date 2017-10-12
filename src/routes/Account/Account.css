@@ -1,0 +1,52 @@
+.loginF {
+  max-width: 300px;
+}
+
+.card {
+  background-color: rgba(255,255,255, 0.6) !important;
+}
+
+.loginFB {
+  width: 100%;
+}
+.loginFBack {
+  width: 100%;
+  border: none;
+  text-align: left;
+  color: #108ee9;
+}
+.title {
+  height: 25px;
+  line-height: 25px;
+  font-size: 20px;
+  color: #438eb9;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.row {
+  background: #00ff00 url('../../assets/bgc.png') no-repeat fixed center;
+  background-size: cover;
+}
+
+
+.stepsAction {
+  margin-top: 24px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.stepsContent {
+  margin-top: 16px;
+  border: 1px dashed #e9e9e9;
+  border-radius: 6px;
+  background-color: #fafafa;
+  min-height: 200px;
+  text-align: center;
+  padding-top: 80px;
+}
+
+
+.goLogin {
+  line-height: 28px;
+}
